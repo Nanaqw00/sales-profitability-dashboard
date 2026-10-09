@@ -1,4 +1,4 @@
-﻿# sales-profitability-dashboard
+
 #  Sales Performance & Profitability Dashboard
 
 ### От выручки к прибыли: ABC-анализ номенклатуры, география продаж и менеджеры, работающие в убыток
